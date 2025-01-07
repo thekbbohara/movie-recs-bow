@@ -17,3 +17,7 @@
 - [ ] Test the recommendations on your dataset.  
 
 ---
+
+```bash
+mkdir data && curl -L -o ./data.zip https://www.kaggle.com/api/v1/datasets/download/rounakbanik/the-movies-dataset && unzip -d data ./data.zip && rm data.zip
+```
