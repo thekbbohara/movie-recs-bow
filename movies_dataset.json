@@ -1,0 +1,807 @@
+[
+  {
+        "title": "Inception",
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "description": "A skilled thief, who specializes in stealing secrets through dreams, is given a chance to erase his criminal history by planting an idea into a target's subconscious."
+    },
+    {
+        "title": "The Dark Knight",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "description": "Batman faces his greatest challenge yet when the Joker emerges from Gotham's underworld to wreak havoc and test the limits of morality."
+    },
+    {
+        "title": "Interstellar",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "description": "A team of astronauts ventures into a wormhole in search of a new home for humanity as Earth faces environmental collapse."
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Two imprisoned men form an unlikely bond over the years as they find solace and redemption through acts of common decency."
+    },
+    {
+        "title": "The Godfather",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "description": "The aging patriarch of a powerful crime family transfers control of his empire to his reluctant son."
+    },
+    {
+        "title": "The Matrix",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "description": "A hacker discovers that the world he knows is a simulated reality and joins a rebellion to free humanity from its machine overlords."
+    },
+    {
+        "title": "Parasite",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "description": "A poor family schemes to become employed by a wealthy household by infiltrating their lives and pretending to be unrelated, highly qualified professionals."
+    },
+    {
+        "title": "Avengers: Endgame",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "description": "After the devastating events of Infinity War, the Avengers assemble one last time to reverse Thanos' actions and restore balance to the universe."
+    },
+    {
+        "title": "La La Land",
+        "genres": [
+            "Drama",
+            "Music",
+            "Romance"
+        ],
+        "description": "A jazz musician and an aspiring actress fall in love while pursuing their dreams in Los Angeles, but their ambitions threaten their relationship."
+    },
+    {
+        "title": "The Lion King",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ],
+        "description": "A young lion prince flees his kingdom after the death of his father, only to return later to reclaim his rightful place as king."
+    },
+    {
+        "title": "Movie Title 11",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 11, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 12",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 12, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 13",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 13, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 14",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 14, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 15",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 15, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 16",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 16, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 17",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 17, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 18",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 18, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 19",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 19, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 20",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 20, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 21",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 21, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 22",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 22, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 23",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 23, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 24",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 24, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 25",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 25, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 26",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 26, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 27",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 27, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 28",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 28, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 29",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 29, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 30",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 30, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 31",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 31, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 32",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 32, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 33",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 33, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 34",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 34, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 35",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 35, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 36",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 36, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 37",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 37, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 38",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 38, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 39",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 39, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 40",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 40, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 41",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 41, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 42",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 42, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 43",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 43, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 44",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 44, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 45",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 45, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 46",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 46, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 47",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 47, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 48",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 48, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 49",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 49, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 50",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 50, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 51",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 51, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 52",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 52, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 53",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 53, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 54",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 54, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 55",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 55, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 56",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 56, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 57",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 57, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 58",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 58, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 59",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 59, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 60",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 60, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 61",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 61, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 62",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 62, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 63",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 63, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 64",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 64, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 65",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 65, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 66",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 66, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 67",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 67, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 68",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 68, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 69",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 69, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 70",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 70, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 71",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 71, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 72",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 72, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 73",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 73, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 74",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 74, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 75",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 75, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 76",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 76, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 77",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 77, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 78",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 78, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 79",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 79, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 80",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 80, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 81",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 81, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 82",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 82, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 83",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 83, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 84",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 84, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 85",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 85, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 86",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 86, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 87",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 87, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 88",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 88, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 89",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 89, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 90",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 90, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 91",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 91, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 92",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 92, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 93",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 93, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 94",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 94, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 95",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 95, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 96",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 96, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 97",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 97, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 98",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 98, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 99",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 99, focusing on its unique story and characters."
+    },
+    {
+        "title": "Movie Title 100",
+        "genres": [
+            "Genre1",
+            "Genre2"
+        ],
+        "description": "This is a placeholder description for Movie Title 100, focusing on its unique story and characters."
+    }
+]
