@@ -1,6 +1,6 @@
 # BAG OF WORDS
 
-## Recommendation System using word of bag.
+## Recommendation System using bag of words.
 ## Movie Recommendation System.
 
 ---
